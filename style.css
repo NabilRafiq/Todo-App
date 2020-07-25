@@ -1,0 +1,17 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0;
+    margin: 0;
+}
+button{
+    color: white!important;
+}
+li{
+    color: white;
+    font-size:20px;
+}
+@media screen and (max-width: 320px){
+    li{
+        font-size: 15px;
+    }
+}
